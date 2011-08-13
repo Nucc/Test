@@ -1,3 +1,1 @@
-= Test Repository
-
-This is only a test repository for checking the review tool. It contains non-understandable commits and many branches, because each test should go to different branch.
+It tests the Repository model
